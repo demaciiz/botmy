@@ -1,0 +1,143 @@
+{
+  "8512344364": {
+    "balance": 99995050,
+    "purchases": [
+      "snos:200"
+    ],
+    "last_action": 1787310674.7965324,
+    "captcha_passed": true,
+    "antibot_passed": true,
+    "antibot_attempts": 0,
+    "subscribed": true
+  },
+  "475001278": {
+    "balance": 0,
+    "purchases": [],
+    "last_action": 1787309511.509879,
+    "captcha_passed": true,
+    "antibot_passed": true,
+    "antibot_attempts": 0,
+    "subscribed": true
+  },
+  "8089966824": {
+    "balance": 1000000000998375,
+    "purchases": [],
+    "last_action": 1787310677.8646927,
+    "captcha_passed": true,
+    "antibot_passed": true,
+    "antibot_attempts": 0,
+    "subscribed": true
+  },
+  "1488275089": {
+    "balance": 100,
+    "purchases": []
+  },
+  "8968183443": {
+    "balance": 0,
+    "purchases": [],
+    "referrals": 0,
+    "referred_by": null,
+    "captcha_passed": false,
+    "antibot_passed": false,
+    "antibot_attempts": 0,
+    "antibot_blocked_until": 0,
+    "subscribed": true,
+    "last_action": 0
+  },
+  "1959936010": {
+    "balance": 0,
+    "purchases": [],
+    "referrals": 0,
+    "referred_by": null,
+    "captcha_passed": true,
+    "antibot_passed": true,
+    "antibot_attempts": 0,
+    "antibot_blocked_until": 0,
+    "subscribed": true,
+    "last_action": 1787310413.1242564
+  },
+  "8914670219": {
+    "balance": 0,
+    "purchases": [],
+    "referrals": 0,
+    "referred_by": null,
+    "captcha_passed": true,
+    "antibot_passed": true,
+    "antibot_attempts": 0,
+    "antibot_blocked_until": 0,
+    "subscribed": true,
+    "last_action": 1787310426.7323596
+  },
+  "8908301885": {
+    "balance": 0,
+    "purchases": [],
+    "referrals": 0,
+    "referred_by": null,
+    "captcha_passed": true,
+    "antibot_passed": true,
+    "antibot_attempts": 0,
+    "antibot_blocked_until": 0,
+    "subscribed": true,
+    "last_action": 1787310508.1093965
+  },
+  "5331094533": {
+    "balance": 0,
+    "purchases": [],
+    "referrals": 0,
+    "referred_by": null,
+    "captcha_passed": true,
+    "antibot_passed": true,
+    "antibot_attempts": 0,
+    "antibot_blocked_until": 0,
+    "subscribed": true,
+    "last_action": 1787310603.1359558
+  },
+  "5266975238": {
+    "balance": 0,
+    "purchases": [],
+    "referrals": 0,
+    "referred_by": null,
+    "captcha_passed": true,
+    "antibot_passed": true,
+    "antibot_attempts": 0,
+    "antibot_blocked_until": 0,
+    "subscribed": true,
+    "last_action": 1787310736.531986
+  },
+  "8957710581": {
+    "balance": 0,
+    "purchases": [],
+    "referrals": 0,
+    "referred_by": null,
+    "captcha_passed": true,
+    "antibot_passed": true,
+    "antibot_attempts": 0,
+    "antibot_blocked_until": 0,
+    "subscribed": true,
+    "last_action": 1787310743.307032
+  },
+  "1209826730": {
+    "balance": 0,
+    "purchases": [],
+    "referrals": 0,
+    "referred_by": null,
+    "captcha_passed": false,
+    "antibot_passed": false,
+    "antibot_attempts": 0,
+    "antibot_blocked_until": 0,
+    "subscribed": false,
+    "last_action": 1787310721.9661174
+  },
+  "8703679091": {
+    "balance": 0,
+    "purchases": [],
+    "referrals": 0,
+    "referred_by": null,
+    "captcha_passed": true,
+    "antibot_passed": true,
+    "antibot_attempts": 0,
+    "antibot_blocked_until": 0,
+    "subscribed": true,
+    "last_action": 1787310775.4466379
+  }
+}
